@@ -1,5 +1,13 @@
-.headers {
+.header1 {
     color:fuchsia;
     display:flex;
     justify-content:center;
+    align-items:center;
+}
+
+.header2 {
+    color:aqua;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
